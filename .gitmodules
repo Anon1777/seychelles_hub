@@ -13,3 +13,6 @@
 [submodule "sneaky-little-google-maps-clone"]
 	path = sneaky-little-google-maps-clone
 	url = https://github.com/Anon1777/sneaky-little-google-maps-clone.git
+[submodule "roads"]
+	path = roads
+	url = https://github.com/SeychellesDev/roads.git
